@@ -38,3 +38,11 @@ function currentLine(deliLine){
    return outputLine;
   }
 }
+
+function currentPosition(takeANumber, deliLine){
+  for(var x = 0; x < deliLine.length; x++){
+    
+  }
+  var positionDifference;
+  positionDifference = takeANumber - deliLine[x];
+}
